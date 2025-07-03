@@ -1,13 +1,8 @@
-from converter import read_excel_file, clean_dataframe, convert_to_json
+from converter import leer_excel, convertir_a_json, limpiar_dataframe
 
 excel_path = "catalogos/catCFDI_V_4_20250618.xlsx"
-# Leer el archivo Excel
-df = read_excel_file(excel_path)
-
-# Limpiar el DataFrame
-df_clean = clean_dataframe(df)
-
-# Convertir a JSON (como string)
-json_str = convert_to_json(df_clean, output_file="catalogos/salida.json", pretty=True)
+df = leer_excel(excel_path)
+df_clean = limpiar_dataframe(df)
+json_str = convertir_a_json(df_clean, archivo_salida="catalogos/tablaPrueba.json", bonito=True)
 
 print("¡Conversión terminada!")
