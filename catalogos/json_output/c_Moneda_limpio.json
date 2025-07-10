@@ -1,0 +1,1466 @@
+[
+  {
+    "c_Moneda": "AED",
+    "Descripcion": "Dirham de EAU",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "AFN",
+    "Descripcion": "Afghani",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ALL",
+    "Descripcion": "Lek",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "AMD",
+    "Descripcion": "Dram armenio",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ANG",
+    "Descripcion": "Florín antillano neerlandés",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "AOA",
+    "Descripcion": "Kwanza",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ARS",
+    "Descripcion": "Peso Argentino",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "AUD",
+    "Descripcion": "Dólar Australiano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "AWG",
+    "Descripcion": "Aruba Florin",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "AZN",
+    "Descripcion": "Azerbaijanian Manat",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BAM",
+    "Descripcion": "Convertibles marca",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BBD",
+    "Descripcion": "Dólar de Barbados",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BDT",
+    "Descripcion": "Taka",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BGN",
+    "Descripcion": "Lev búlgaro",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BHD",
+    "Descripcion": "Dinar de Bahrein",
+    "Decimales": 3,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BIF",
+    "Descripcion": "Burundi Franc",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BMD",
+    "Descripcion": "Dólar de Bermudas",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BND",
+    "Descripcion": "Dólar de Brunei",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BOB",
+    "Descripcion": "Boliviano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BOV",
+    "Descripcion": "Mvdol",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BRL",
+    "Descripcion": "Real brasileño",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BSD",
+    "Descripcion": "Dólar de las Bahamas",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BTN",
+    "Descripcion": "Ngultrum",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BWP",
+    "Descripcion": "Pula",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BYR",
+    "Descripcion": "Rublo bielorruso",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "BZD",
+    "Descripcion": "Dólar de Belice",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CAD",
+    "Descripcion": "Dólar Canadiense",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CDF",
+    "Descripcion": "Franco congoleño",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CHE",
+    "Descripcion": "WIR Euro",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CHF",
+    "Descripcion": "Franco Suizo",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CHW",
+    "Descripcion": "Franc WIR",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CLF",
+    "Descripcion": "Unidad de Fomento",
+    "Decimales": 4,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CLP",
+    "Descripcion": "Peso chileno",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CNH",
+    "Descripcion": "Yuan extracontinental (China )",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2023-05-29",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CNY",
+    "Descripcion": "Yuan Renminbi",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "COP",
+    "Descripcion": "Peso Colombiano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "COU",
+    "Descripcion": "Unidad de Valor real",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CRC",
+    "Descripcion": "Colón costarricense",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CUC",
+    "Descripcion": "Peso Convertible",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CUP",
+    "Descripcion": "Peso Cubano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CVE",
+    "Descripcion": "Cabo Verde Escudo",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "CZK",
+    "Descripcion": "Corona checa",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "DJF",
+    "Descripcion": "Franco de Djibouti",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "DKK",
+    "Descripcion": "Corona danesa",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "DOP",
+    "Descripcion": "Peso Dominicano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "DZD",
+    "Descripcion": "Dinar argelino",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "EGP",
+    "Descripcion": "Libra egipcia",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ERN",
+    "Descripcion": "Nakfa",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ESD",
+    "Descripcion": "Dólar de Ecuador",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2023-05-29",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ETB",
+    "Descripcion": "Birr etíope",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "EUR",
+    "Descripcion": "Euro",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "FJD",
+    "Descripcion": "Dólar de Fiji",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "FKP",
+    "Descripcion": "Libra malvinense",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GBP",
+    "Descripcion": "Libra Esterlina",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GEL",
+    "Descripcion": "Lari",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GHS",
+    "Descripcion": "Cedi de Ghana",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GIP",
+    "Descripcion": "Libra de Gibraltar",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GMD",
+    "Descripcion": "Dalasi",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GNF",
+    "Descripcion": "Franco guineano",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GTQ",
+    "Descripcion": "Quetzal",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "GYD",
+    "Descripcion": "Dólar guyanés",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "HKD",
+    "Descripcion": "Dólar De Hong Kong",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "HNL",
+    "Descripcion": "Lempira",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "HRK",
+    "Descripcion": "Kuna",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "HTG",
+    "Descripcion": "Gourde",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "HUF",
+    "Descripcion": "Florín",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "IDR",
+    "Descripcion": "Rupia",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ILS",
+    "Descripcion": "Nuevo Shekel Israelí",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "INR",
+    "Descripcion": "Rupia india",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "IQD",
+    "Descripcion": "Dinar iraquí",
+    "Decimales": 3,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "IRR",
+    "Descripcion": "Rial iraní",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ISK",
+    "Descripcion": "Corona islandesa",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "JMD",
+    "Descripcion": "Dólar Jamaiquino",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "JOD",
+    "Descripcion": "Dinar jordano",
+    "Decimales": 3,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "JPY",
+    "Descripcion": "Yen",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KES",
+    "Descripcion": "Chelín keniano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KGS",
+    "Descripcion": "Som",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KHR",
+    "Descripcion": "Riel",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KMF",
+    "Descripcion": "Franco Comoro",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KPW",
+    "Descripcion": "Corea del Norte ganó",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KRW",
+    "Descripcion": "Won",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KWD",
+    "Descripcion": "Dinar kuwaití",
+    "Decimales": 3,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KYD",
+    "Descripcion": "Dólar de las Islas Caimán",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "KZT",
+    "Descripcion": "Tenge",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "LAK",
+    "Descripcion": "Kip",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "LBP",
+    "Descripcion": "Libra libanesa",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "LKR",
+    "Descripcion": "Rupia de Sri Lanka",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "LRD",
+    "Descripcion": "Dólar liberiano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "LSL",
+    "Descripcion": "Loti",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "LYD",
+    "Descripcion": "Dinar libio",
+    "Decimales": 3,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MAD",
+    "Descripcion": "Dirham marroquí",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MDL",
+    "Descripcion": "Leu moldavo",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MGA",
+    "Descripcion": "Ariary malgache",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MKD",
+    "Descripcion": "Denar",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MMK",
+    "Descripcion": "Kyat",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MNT",
+    "Descripcion": "Tugrik",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MOP",
+    "Descripcion": "Pataca",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MRO",
+    "Descripcion": "Ouguiya",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MUR",
+    "Descripcion": "Rupia de Mauricio",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MVR",
+    "Descripcion": "Rupia",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MWK",
+    "Descripcion": "Kwacha",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MXN",
+    "Descripcion": "Peso Mexicano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MXV",
+    "Descripcion": "México Unidad de Inversión (UDI)",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MYR",
+    "Descripcion": "Ringgit malayo",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "MZN",
+    "Descripcion": "Mozambique Metical",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "NAD",
+    "Descripcion": "Dólar de Namibia",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "NGN",
+    "Descripcion": "Naira",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "NIC",
+    "Descripcion": "Córdoba (Nicaragua)",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2023-05-29",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "NIO",
+    "Descripcion": "Córdoba Oro",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "NOK",
+    "Descripcion": "Corona noruega",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "NPR",
+    "Descripcion": "Rupia nepalí",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "NZD",
+    "Descripcion": "Dólar de Nueva Zelanda",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "OMR",
+    "Descripcion": "Rial omaní",
+    "Decimales": 3,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "PAB",
+    "Descripcion": "Balboa",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "PEN",
+    "Descripcion": "Nuevo Sol",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "PGK",
+    "Descripcion": "Kina",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "PHP",
+    "Descripcion": "Peso filipino",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "PKR",
+    "Descripcion": "Rupia de Pakistán",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "PLN",
+    "Descripcion": "Zloty",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "PYG",
+    "Descripcion": "Guaraní",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "QAR",
+    "Descripcion": "Qatar Rial",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "RON",
+    "Descripcion": "Leu rumano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "RSD",
+    "Descripcion": "Dinar serbio",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "RUB",
+    "Descripcion": "Rublo ruso",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "RWF",
+    "Descripcion": "Franco ruandés",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SAR",
+    "Descripcion": "Riyal saudí",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SBD",
+    "Descripcion": "Dólar de las Islas Salomón",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SCR",
+    "Descripcion": "Rupia de Seychelles",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SDG",
+    "Descripcion": "Libra sudanesa",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SEK",
+    "Descripcion": "Corona sueca",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SGD",
+    "Descripcion": "Dólar De Singapur",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SHP",
+    "Descripcion": "Libra de Santa Helena",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SLL",
+    "Descripcion": "Leona",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SOS",
+    "Descripcion": "Chelín somalí",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SRD",
+    "Descripcion": "Dólar de Suriname",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SSP",
+    "Descripcion": "Libra sudanesa Sur",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "STD",
+    "Descripcion": "Dobra",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SVC",
+    "Descripcion": "Colon El Salvador",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SYP",
+    "Descripcion": "Libra Siria",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "SZL",
+    "Descripcion": "Lilangeni",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "THB",
+    "Descripcion": "Baht",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TJS",
+    "Descripcion": "Somoni",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TMT",
+    "Descripcion": "Turkmenistán nuevo manat",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TND",
+    "Descripcion": "Dinar tunecino",
+    "Decimales": 3,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TOP",
+    "Descripcion": "Pa'anga",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TRY",
+    "Descripcion": "Lira turca",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TTD",
+    "Descripcion": "Dólar de Trinidad y Tobago",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TWD",
+    "Descripcion": "Nuevo dólar de Taiwán",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "TZS",
+    "Descripcion": "Shilling tanzano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "UAH",
+    "Descripcion": "Hryvnia",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "UGX",
+    "Descripcion": "Shilling de Uganda",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "USD",
+    "Descripcion": "Dólar americano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "USN",
+    "Descripcion": "Dólar estadounidense (día siguiente)",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "UYI",
+    "Descripcion": "Peso Uruguay en Unidades Indexadas (URUIURUI)",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "UYP",
+    "Descripcion": "Uruguay (Peso)",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2023-05-29",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "UYU",
+    "Descripcion": "Peso Uruguayo",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "UZS",
+    "Descripcion": "Uzbekistán Sum",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "VEF",
+    "Descripcion": "Bolívar",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "VES",
+    "Descripcion": "Bolívar digital  (Venezuela)",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2023-05-29",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "VND",
+    "Descripcion": "Dong",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "VUV",
+    "Descripcion": "Vatu",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "WST",
+    "Descripcion": "Tala",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XAF",
+    "Descripcion": "Franco CFA BEAC",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XAG",
+    "Descripcion": "Plata",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XAU",
+    "Descripcion": "Oro",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XBA",
+    "Descripcion": "Unidad de Mercados de Bonos Unidad Europea Composite (EURCO)",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XBB",
+    "Descripcion": "Unidad Monetaria de Bonos de Mercados Unidad Europea (UEM-6)",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XBC",
+    "Descripcion": "Mercados de Bonos Unidad Europea unidad de cuenta a 9 (UCE-9)",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XBD",
+    "Descripcion": "Mercados de Bonos Unidad Europea unidad de cuenta a 17 (UCE-17)",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XCD",
+    "Descripcion": "Dólar del Caribe Oriental",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XDR",
+    "Descripcion": "DEG (Derechos Especiales de Giro)",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XOF",
+    "Descripcion": "Franco CFA BCEAO",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XPD",
+    "Descripcion": "Paladio",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XPF",
+    "Descripcion": "Franco CFP",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XPT",
+    "Descripcion": "Platino",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XSU",
+    "Descripcion": "Sucre",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XTS",
+    "Descripcion": "Códigos reservados específicamente para propósitos de prueba",
+    "Decimales": 0,
+    "Porcentaje_variacion": "",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XUA",
+    "Descripcion": "Unidad ADB de Cuenta",
+    "Decimales": 0,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "XXX",
+    "Descripcion": "Los códigos asignados para las transacciones en que intervenga ninguna moneda",
+    "Decimales": 0,
+    "Porcentaje_variacion": "",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "YER",
+    "Descripcion": "Rial yemení",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ZAR",
+    "Descripcion": "Rand",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ZMW",
+    "Descripcion": "Kwacha zambiano",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_Moneda": "ZWL",
+    "Descripcion": "Zimbabwe Dólar",
+    "Decimales": 2,
+    "Porcentaje_variacion": 5.0,
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  }
+]

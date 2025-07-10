@@ -1,0 +1,50 @@
+[
+  {
+    "c_TipoDeComprobante": "I",
+    "Descripcion": "Ingreso",
+    "Valor_maximo": "999999999999999999.999999",
+    "Unnamed_3": "",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_TipoDeComprobante": "E",
+    "Descripcion": "Egreso",
+    "Valor_maximo": "999999999999999999.999999",
+    "Unnamed_3": "",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_TipoDeComprobante": "T",
+    "Descripcion": "Traslado",
+    "Valor_maximo": 0,
+    "Unnamed_3": "",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_TipoDeComprobante": "N",
+    "Descripcion": "Nómina",
+    "Valor_maximo": "NS",
+    "Unnamed_3": "NdS",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_TipoDeComprobante": "",
+    "Descripcion": "",
+    "Valor_maximo": "999999999999999999.999999",
+    "Unnamed_3": "999999999999999999.999999",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  },
+  {
+    "c_TipoDeComprobante": "P",
+    "Descripcion": "Pago",
+    "Valor_maximo": "999999999999999999.999999",
+    "Unnamed_3": "",
+    "Fecha_inicio_de_vigencia": "2022-01-01",
+    "Fecha_fin_de_vigencia": ""
+  }
+]
