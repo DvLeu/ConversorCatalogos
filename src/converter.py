@@ -145,6 +145,14 @@ def convertir_a_json(df, archivo_salida=None, bonito=True):
     
     return json_str
 
+def seleccionar_columnas_ampersand(df):
+    """
+    Selecciona solo las columnas que contienen '&' en su nombre y elimina el '&' del nombre.
+    """
+    columnas_con_amp = [col for col in df.columns if "&" in col]
+    renombrar = {col: col.replace("&", "") for col in columnas_con_amp}
+    return df[columnas_con_amp].rename(columns=renombrar)
+
 def main():
     parser = argparse.ArgumentParser(description="Convierte un archivo Excel a JSON")
     parser.add_argument("excel_file", help="Ruta al archivo Excel (.xls o .xlsx)")
@@ -189,7 +197,6 @@ def main():
     
     if not args.output:
         print("\n📄 Salida JSON:")
-        # Solo mostrar los primeros 500 caracteres si es muy largo
         if len(json_str) > 500:
             print(json_str[:500] + "...")
             print(f"\n[JSON truncado - total: {len(json_str)} caracteres]")
