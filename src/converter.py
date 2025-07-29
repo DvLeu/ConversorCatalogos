@@ -162,7 +162,7 @@ def main():
     parser.add_argument("--preview", action="store_true", help="Muestra una vista previa de los datos antes de convertir")
     parser.add_argument("--limpiar-columnas", action="store_true", help="Elimina acentos SOLO en nombres de columnas")
     parser.add_argument("--metodo-acentos", choices=['espanol', 'unicode'], default='espanol', 
-                       help="Método para limpiar acentos en columnas: 'espanol' (mantiene estructura) o 'unicode' (más agresivo)")
+                        help="Método para limpiar acentos en columnas: 'espanol' (mantiene estructura) o 'unicode' (más agresivo)")
     
     args = parser.parse_args()
     
